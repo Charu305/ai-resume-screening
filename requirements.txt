@@ -16,16 +16,16 @@ faiss-cpu==1.13.2
 filetype==1.2.0
 gitdb==4.0.12
 GitPython==3.1.46
-google-ai-generativelanguage==0.6.15
-google-api-core==2.29.0
-google-api-python-client==2.189.0
-google-auth==2.49.0.dev0
-google-auth-httplib2==0.3.0
-google-genai==1.62.0
-google-generativeai==0.8.6
-googleapis-common-protos==1.72.0
-grpcio==1.78.0
-grpcio-status==1.71.2
+google-ai-generativelanguage
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-genai
+google-generativeai
+googleapis-common-protos
+grpcio
+grpcio-status
 h11==0.16.0
 httpcore==1.0.9
 httplib2==0.31.2
@@ -49,7 +49,6 @@ narwhals==2.16.0
 numpy==2.2.6
 orjson==3.11.7
 ormsgpack==1.12.2
-packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049101700/work
 pandas==2.3.3
 pillow==12.1.0
 proto-plus==1.27.1
